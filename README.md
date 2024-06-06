@@ -17,7 +17,7 @@
 
 2. Assemble the assembly code:
     ```sh
-    nasm -f elf64 -o asm/routine.o asm/routine.asm
+    nasm -f bin -o asm/routine.bin asm/routine.asm
     ```
 
 3. Build the Go project:
