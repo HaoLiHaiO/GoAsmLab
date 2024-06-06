@@ -1,6 +1,7 @@
 # Ignore binary and object files
 main
 asm/*.o
+asm/*.bin
 
 # Ignore other temporary or build files
 *.log
